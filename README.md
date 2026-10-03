@@ -80,37 +80,44 @@ A professional business website developed for **Kaushik Precision Tools (KPT)** 
 
 ---
 
-## 🧪 Projects & Experiments
+## 🧪 Project Portfolio
 
-The following projects are listed in my current resume and represent areas I've worked on or explored:
+I am documenting the projects from my resume as individual portfolio areas. Each project has its own README, visual preview, technical scope, setup checklist, and roadmap.
 
-| Project | Area |
-|---|---|
-| 🤖 **AI Interview Agent** | AI / Automation |
-| 🚁 **Drone Development** | Hardware / Embedded |
-| 🗄️ **NAS Server** | Systems / Networking |
-| 🌐 **Web Development & SEO Optimization** | Web / SEO |
-| 📍 **Google My Business** | Digital Presence |
-| 💬 **AI API Chatbot** | AI / APIs |
-| 🌦️ **Weather Forecast Model** | Data / Python |
-| ☀️ **Solar Power Backup System** | Electronics |
-| 🏠 **IoT Home Security System** | IoT |
-| 🏡 **Smart Home Automation System** | IoT / Automation |
-| ⚙️ **n8n Time-Scheduling Automation** | Workflow Automation |
+### 🤖 AI & Automation
 
-> 📌 Some of these projects are not yet published as dedicated GitHub repositories. I'm gradually documenting and adding them.
+| Project | Area | Status |
+|---|---|---|
+| [AI Interview Agent](projects/AI-Interview-Agent/) | AI / Automation | Prototype |
+| [AI API Chatbot](projects/AI-API-Chatbot/) | AI / APIs | Prototype |
+| [n8n Time-Scheduling Automation](projects/N8N-Time-Scheduling-Automation/) | Workflow Automation | Prototype |
 
----
+### 🌐 Web & Digital
 
-## 📊 GitHub Projects
+| Project | Area | Status |
+|---|---|---|
+| [Web Development & SEO](projects/Web-Development-SEO/) | Web / SEO | Portfolio Area |
+| [Google My Business](projects/Google-My-Business/) | Digital Presence | Project Area |
+| [Kaushik Precision Tools](https://kaushikprecisiontools.com) | Client / WordPress | Live Client Site |
 
-### 🗄️ SQL-
+### 🖥️ Systems, IoT & Hardware
 
-An SQL/database project currently available on my GitHub.
+| Project | Area | Status |
+|---|---|---|
+| [NAS Server](projects/NAS-Server/) | Systems / Networking | Homelab |
+| [IoT Home Security](projects/IoT-Home-Security/) | IoT / Security | Prototype |
+| [Smart Home Automation](projects/Smart-Home-Automation/) | IoT / Automation | Prototype |
+| [Drone Development](projects/Drone-Development/) | Hardware / Embedded | Prototype |
+| [Solar Power Backup](projects/Solar-Power-Backup-System/) | Electronics / Energy | Prototype |
 
-🔗 **[View Repository](https://github.com/Mr-S-96/SQL-)**
+### 📊 Data
 
-I'm working toward documenting my projects with clearer READMEs, screenshots, setup instructions, and technical details.
+| Project | Area | Status |
+|---|---|---|
+| [Weather Forecast Model](projects/Weather-Forecast-Model/) | Data / Python | Prototype |
+| [SQL-](https://github.com/Mr-S-96/SQL-) | SQL / Database | Existing Repository |
+
+> 📌 **Transparency:** The project pages are portfolio documentation based on projects listed in my resume. Projects marked prototype or project area should not be interpreted as production systems until their implementation is published and tested.
 
 ---
 
